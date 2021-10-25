@@ -1,0 +1,2 @@
+# Hospital-Appointment-Booking-System
+Hospital Appointment Booking System is a advance website which allow user to book an appointment in a hospital and save their time. It offers the user and the Doctors to create their profile on the Website and store the data at the back end using php. Doctors can update their Schedule and give access to the user to book their appointment at the suitable time.  
